@@ -2,8 +2,8 @@
 
 # CDU01 - Acessar catálogo de produtos
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -57,8 +57,8 @@ Ações do **cliente** | Ações do **sistema**
 
 # CDU02 - Criar conta cliente
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -134,14 +134,14 @@ Ações do cliente | Ações do sistema
 
 <br>
 
-[< anterior]() | [próximo >]()
+[anterior](https://github.com/Pedrofiigueiredo/clkp/wiki/CDU01---Acessar-cat%C3%A1logo-de-produtos) | [próximo]()
 
 <br><br>
 
 # CDU03 - Efetuar compra
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -223,14 +223,14 @@ Ações do **cliente** | Ações do **sistema**
 <br> | (1) Sistema envia email para o cliente informando que o pagamento não foi aprovado
 #2) Cliente acessa o link do email; | (3) Volta para o passo 4 do fluxo principal.
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
 # CDU04 - Acompanhar pedido
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -271,15 +271,15 @@ Ações do **cliente** | Ações do **sistema**
 ### Fluxos alternativos
 - 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
 
 # CDU05 - Cancelar pedido
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -321,15 +321,15 @@ Ações do **cliente** | Ações do **sistema** | Ações da loja
 ### Fluxos alternativos
 -
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
 
 # CDU06 - Devolver produto
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -371,15 +371,15 @@ Ações do **cliente** | Ações do sistma | Ações do **administrador do siste
 ### Fluxos alternativos
 -
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
 
 # CDU07 - Avaliar experiência (NPS)
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -423,15 +423,15 @@ Ações do **cliente** | Ações do sistma
 <br> | (1) Sistema aguarda duas semanas e envia um novo email na tentativa de obter a resposta do cliente.
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
 
 # CDU08 - Denunciar loja
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -477,18 +477,14 @@ Ações do **cliente** | Ações do administrador do sistema
 <br> | (1) Desconsidera denúncia.
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
----
-
-## Loja
-
 # CDU9 - Criar conta loja
 
-#### Aluno: Pedro Figueiredo Dias
-#### TIA: 41990455
+**Aluno:** Pedro Figueiredo Dias <br>
+**TIA:** 41990455
 
 <br>
 
@@ -536,7 +532,7 @@ Ações da loja | Ações do sistema | Ações do administrador do sistema
 #### 7. Administrador do sistema não aprova solicitação da loja
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -584,7 +580,7 @@ Ações da loja | Ações do sistema
 #### 2a. Informações sobre o produto inválidas
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -631,7 +627,7 @@ Ações da loja | Ações do sistema
 ### Fluxos alternativos
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -681,7 +677,7 @@ Ações da loja | Ações do sistema
 #### 2a. Loja não aprova o pedido
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -734,7 +730,7 @@ Ações da loja | Ações do sistema
 ### Fluxos alternativos
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -784,7 +780,7 @@ Ações da loja | Ações do sistema
 ### Fluxos alternativos
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -834,7 +830,7 @@ Ações da loja | Ações do sistema | Ações do cliente
 - Produto devolvido com problemas
 
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -882,7 +878,7 @@ Ações da loja | Ações do sistema | Ações do administrdor do sistema
 ### Fluxos alternativos
 - Cliente enviou o pedido de volta
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -921,7 +917,7 @@ Ações do administrdor do sistema | <br>
 
 ### Fluxos alternativos
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -958,7 +954,7 @@ Ações do administrdor do sistema | <br>
 ### Fluxos alternativos
 - Administrador do sistema não aprova criação da conta
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
 
@@ -994,6 +990,6 @@ Ações do administrdor do sistema | <br>
 
 ### Fluxos alternativos
 
-[< anterior]() | [próximo >]()
+[anterior]() | [próximo]()
 
 <br><br>
