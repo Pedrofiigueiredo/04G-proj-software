@@ -1,10 +1,10 @@
 **CLKP Shop**
 - [Grupo](https://github.com/Pedrofiigueiredo/clkp/wiki/Grupo)
-- Descrição
+- [Descrição](https://github.com/Pedrofiigueiredo/clkp/wiki)
 - [Atores e atividades](https://github.com/Pedrofiigueiredo/clkp/wiki/Cen%C3%A1rio-da-aplica%C3%A7%C3%A3o)
 
 **Diagramas**
-- Casos de uso
+- [Casos de uso](https://github.com/Pedrofiigueiredo/clkp/wiki/Cen%C3%A1rio-da-aplica%C3%A7%C3%A3o)
 - Diagrama de classes
 
 **Especificações**

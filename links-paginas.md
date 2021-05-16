@@ -13,7 +13,7 @@ https://github.com/Pedrofiigueiredo/clkp/wiki/CDU12---Aprovar-pedido
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU13---Enviar-pedido-a-transportadora
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU14---Atender-cliente
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU15---Devolver-dinheiro
-https://github.com/Pedrofiigueiredo/clkp/wiki/CDU16---DenunciarRemover-cliente
+https://github.com/Pedrofiigueiredo/clkp/wiki/CDU16---Denunciar-cliente
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU17---Remover-cliente
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU18---Aprovar-criacao-da-conta-loja
 https://github.com/Pedrofiigueiredo/clkp/wiki/CDU19---Remover-loja
